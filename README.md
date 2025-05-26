@@ -32,4 +32,6 @@ A very simple Solidity smart contract that lets users store and retrieve a singl
            return storedNumber;
        }
    }
-![image](https://github.com/user-attachments/assets/4aef5f71-3814-416f-9c32-b3fefac28a93)
+
+![WhatsApp Image 2025-05-26 at 14 48 51_39a8f55c](https://github.com/user-attachments/assets/821525f7-59e2-4363-8829-4a22f3c70956)
+
