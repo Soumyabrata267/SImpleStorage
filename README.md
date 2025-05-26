@@ -1,4 +1,4 @@
-# SimpleStorage Smart Contract
+![image](https://github.com/user-attachments/assets/6eeb9f54-e057-4603-8507-2ddc011b6dd2)# SimpleStorage Smart Contract
 
 A very simple Solidity smart contract that lets users store and retrieve a single number on the Ethereum blockchain.
 
@@ -32,3 +32,4 @@ A very simple Solidity smart contract that lets users store and retrieve a singl
            return storedNumber;
        }
    }
+![image](https://github.com/user-attachments/assets/4aef5f71-3814-416f-9c32-b3fefac28a93)
